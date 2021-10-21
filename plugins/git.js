@@ -21,9 +21,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.WP}, (async (message
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {mimetype: Mimetype.png, caption: `*creater Arjun*
 *owner number wa.me/919946432377*
 *bot setting video : https://youtu.be/_D4ZYuUSXjs
-*githublink       https://github.com/ameer-kallumthodi/pikachu*
-*audio commads    https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
-*sticker commads  https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*githublink       https://github.com/Arjun1234arjun/Arjun-sir_v2*
+*audio commads    https://github.com/ameer-kallumhttps://github.com/Arjun1234arjun/Arjun-sir_v2.git/tree/master/uploads*
+*sticker commads  https://github.com/Arjun1234arjun/Arjun-sir_v2.git/tree/master/uploads*
 `}) 
 
 }));
